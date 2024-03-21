@@ -22,7 +22,7 @@ const con = mysql.createConnection({
   host: 'ssc.cluster-c7428qqac1q4.eu-west-3.rds.amazonaws.com',
   port:'3306',
   user: 'admin',
-  password: 'sscsupnum',
+  password: 'admin1234',
   database: 'ssc',
 });
 
