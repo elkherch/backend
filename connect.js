@@ -1,7 +1,7 @@
 const express = require('express');
 const mysql = require('mysql');
 const con = mysql.createConnection({
-  host: ' databasessc.c7428qqac1q4.eu-west-3.rds.amazonaws.com',
+  host: 'databasessc.c7428qqac1q4.eu-west-3.rds.amazonaws.com',
   port:'3306',
   user: 'admin',
   password: 'supnum1234',
